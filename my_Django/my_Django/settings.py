@@ -84,9 +84,9 @@ WSGI_APPLICATION = 'my_Django.wsgi.application'
 #     },
     # 'salve': {
     #     'ENGINE': 'django.db.backends.mysql',
-    #     'NAME': 'text',
+    #     'NAME': 'Local instance MySQL80',
     #     'USER': 'root',
-    #     'PASSWORD': '134258',
+    #     'PASSWORD': '666666',
     #     'HOST': '127.0.0.1',
     #     'PORT': '3306',
     # }
