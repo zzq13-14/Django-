@@ -1,0 +1,1 @@
+[{"model": "apps.article", "pk": 1, "fields": {"title": "aaa", "brief_content": "bbbbbbb", "content": "llskdjfslfkjksj", "publish_data": "2020-02-25T16:02:20.595"}}, {"model": "apps.article", "pk": 2, "fields": {"title": "dfasfa", "brief_content": "hyyhyyyy", "content": "fdhghshyjdfgdfgthf", "publish_data": "2020-02-25T15:52:44.601"}}]
